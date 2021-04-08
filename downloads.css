@@ -1,0 +1,61 @@
+body{
+    background-color:lightgreen;
+}
+
+.header{
+    background-color:lightblue;
+    display:flex;
+    justify-content:space-between;    
+}
+
+.menu{
+    margin-right:30px;
+    margin-top:15px;
+
+}
+
+.menu .button{
+    margin-left:20px;
+    border:1px solid navy;
+    padding: 10px;
+    text-decoration:none;
+    background-color:cornflowerblue ;
+}
+
+.button:hover{
+    background-color: coral;
+}
+
+h1{
+    text-align: center;
+    font-size:40px;
+    margin-left: 40%;
+}
+
+.sub{
+    font-size: 150%;
+    text-align: center;
+    color: darkblue;
+}
+
+.zip{
+    padding:-5px;
+}
+
+.text{
+    text-decoration: none;
+    color:black;    
+}
+
+.text:hover{
+    color:darkblue;
+}
+
+.img{
+    margin-left: 70%;
+}
+
+.img1{
+    margin-left: 35%;
+    margin-top: -19%;
+}

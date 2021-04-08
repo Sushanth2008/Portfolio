@@ -1,0 +1,52 @@
+body{
+    background-color:lightsalmon;
+}
+
+.header{
+    background-color:cyan;
+    display:flex;
+    justify-content:space-between;    
+}
+
+.menu{
+    margin-right:30px;
+    margin-top:15px;
+
+}
+
+.menu a{
+    margin-left:20px;
+    border:1px solid navy;
+    padding: 10px;
+    text-decoration:none;
+    background-color:cornflowerblue ;
+}
+
+.button:hover{
+    background-color: coral;
+}
+
+h1{
+    text-align: center;
+    font-size:40px;
+    margin-left: 40%;
+}
+
+p{
+    font-size:40px;
+}
+
+.img1{
+    margin-left: 65%;
+    margin-top: -25%;
+    transform: rotate(10deg);
+}
+
+.img2{
+    margin-top: -12%;
+    margin-left: 85%;
+}
+
+.img3{
+    margin-left: 70%;
+}
